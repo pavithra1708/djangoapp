@@ -8,7 +8,11 @@ on:
 
 jobs:
   build:
+<<<<<<< HEAD
     name: Actions test
+=======
+
+>>>>>>> 921bbecfb4543b56387f94ce8181702b5c6bdeff
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
